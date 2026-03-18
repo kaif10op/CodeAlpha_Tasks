@@ -1,0 +1,7 @@
+Stock Portfolio Summary
+
+AAPL : 40 shares x 180 = 7200
+TSLA : 20 shares x 250 = 5000
+META : 50 shares x 350 = 17500
+
+Total Investment Value: 29700
